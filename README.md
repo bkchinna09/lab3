@@ -8,7 +8,7 @@
             <input tpe="text" name="text" placeholder="Name"> </br></th>
             Roll No.:
             <input tye="number" name="number" placeholder="Roll No"> </br>
-            
+          abcd  
         Gender: </br></br>
         Male
         <input type="checkbox" id="male" value="gender"></br>
